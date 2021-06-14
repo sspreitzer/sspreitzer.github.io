@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>idea on Sascha&#39;s Blog</title>
+    
+    
+    
+    <link>/categories/idea/</link>
+    <description>Recent content in idea on Sascha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;nbsp;</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 11:01:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/idea/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Idea: Terraform ServiceHub</title>
+      <link>/posts/idea-terraform-servicehub/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/posts/idea-terraform-servicehub/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is an idea that is on my mind for quite some time and I struggle to find the software that implements it. And I am not implementing it by myself, for the moment. But maybe this is some challenge for you?
+The Idea To create a software that can offer a simple portal to instantiate Terraform modules and manage the state of the instance (CREATE/UPDATE/DELETE). The focus is on allowing novice users to create their own instances of a Terraform module created and maintained by experts.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

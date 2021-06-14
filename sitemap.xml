@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+  </url><url>
     <loc>/posts/idea-terraform-servicehub/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/ideas/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
@@ -11,10 +17,19 @@
     <loc>/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/bash/</loc>
-    <lastmod>2021-06-14T09:41:24+02:00</lastmod>
+    <loc>/categories/self-service/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>/categories/service/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/servicehub/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/terraform/</loc>
+    <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+  </url><url>
+    <loc>/categories/bash/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
   </url><url>
     <loc>/categories/history/</loc>

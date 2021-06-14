@@ -10,10 +10,110 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 09:41:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 11:01:46 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ideas</title>
+      <link>/categories/ideas/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/categories/ideas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>self-service</title>
+      <link>/categories/self-service/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/categories/self-service/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>/categories/service/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/categories/service/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>ServiceHub</title>
+      <link>/categories/servicehub/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/categories/servicehub/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>/categories/terraform/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/categories/terraform/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>bash</title>
