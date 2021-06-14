@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sascha&#39;s Blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Sascha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;nbsp;</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 09:41:24 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Bash History Settings</title>
+      <link>/posts/bash-history/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      
+      <guid>/posts/bash-history/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This post aims to describe some useful bash history settings, that are all too often unknown of. Following are some environment variables described, which can be set in the users bashrc file in eg. ~/.bashrc.
+HISTCONTROL    Setting Behaviour     ignorespace Do not record if line starts with a blank/space   ignoredups Do not record line if its a duplicate of the previous line   ignoreboth Do ignorespace and ignoredups   erasedups Do remove all occurences of line before saving line    The settings can be combined by colons, eg.
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Bio &amp;ldquo;Open Source is not only about software, it is a revolution of work culture, driven by purpose.&amp;quot;
+Sascha Spreitzer, living in Zurich, Switzerland. Interested in Star Trek, time travel, scuba diving, cuban cigars, Linux and Open Source. Developing in Ruby, C and occasionally Python. Designing and describing Open Source solutions by passion.
+ GitHub LinkedIn Facebook Instagram  Education Linux  Red Hat Certified Architect Red Hat Certified Engineer Red Hat Certified in OpenStack (Admin &amp;amp; Engineer) Red Hat Certified in OpenShift Red Hat Certified in Ansible Linux Professional Institute Certification 1/2/3  PADI  Certified Rescue Diver Certified Emergency First Responder Certified Enriched Air Diver (Nitrox) Certified Advanced Open Water Diver Certified Open Water Diver  Postgraduate (admission sur dossier)  Student of Master of Business Administration (MBA FH) in IT-Management Student of Advanced Studies (CAS FH) in Digital Strategy and Performance Certificate of Advanced Studies (CAS FH) in IT-Management Certificate of Advanced Studies (CAS FH) in General Management  Vocational Training  IT Specialist in System Integration  
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

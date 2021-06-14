@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>history on Sascha&#39;s Blog</title>
+    
+    
+    
+    <link>/categories/history/</link>
+    <description>Recent content in history on Sascha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;nbsp;</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 09:41:24 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/history/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful Bash History Settings</title>
+      <link>/posts/bash-history/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      
+      <guid>/posts/bash-history/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This post aims to describe some useful bash history settings, that are all too often unknown of. Following are some environment variables described, which can be set in the users bashrc file in eg. ~/.bashrc.
+HISTCONTROL    Setting Behaviour     ignorespace Do not record if line starts with a blank/space   ignoredups Do not record line if its a duplicate of the previous line   ignoreboth Do ignorespace and ignoredups   erasedups Do remove all occurences of line before saving line    The settings can be combined by colons, eg.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
