@@ -1,48 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>/categories/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/posts/idea-terraform-servicehub/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/ideas/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/posts/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/self-service/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/service/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/servicehub/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/terraform/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/bash/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/history/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/categories/shell/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/posts/bash-history/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
   </url>
+  
 </urlset>
