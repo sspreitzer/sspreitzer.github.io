@@ -10,115 +10,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 11:01:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spreitzer.ch/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ideas</title>
-      <link>https://spreitzer.ch/categories/ideas/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/ideas/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>self-service</title>
-      <link>https://spreitzer.ch/categories/self-service/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/self-service/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>service</title>
-      <link>https://spreitzer.ch/categories/service/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/service/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>ServiceHub</title>
-      <link>https://spreitzer.ch/categories/servicehub/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/servicehub/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Terraform</title>
-      <link>https://spreitzer.ch/categories/terraform/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/terraform/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>bash</title>
       <link>https://spreitzer.ch/categories/bash/</link>
-      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://spreitzer.ch/categories/bash/</guid>
       <description>
@@ -138,7 +38,7 @@
     <item>
       <title>history</title>
       <link>https://spreitzer.ch/categories/history/</link>
-      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://spreitzer.ch/categories/history/</guid>
       <description>
@@ -156,11 +56,111 @@
     </item>
     
     <item>
+      <title>ideas</title>
+      <link>https://spreitzer.ch/categories/ideas/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spreitzer.ch/categories/ideas/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>self-service</title>
+      <link>https://spreitzer.ch/categories/self-service/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spreitzer.ch/categories/self-service/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>service</title>
+      <link>https://spreitzer.ch/categories/service/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spreitzer.ch/categories/service/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>ServiceHub</title>
+      <link>https://spreitzer.ch/categories/servicehub/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spreitzer.ch/categories/servicehub/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>shell</title>
       <link>https://spreitzer.ch/categories/shell/</link>
-      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://spreitzer.ch/categories/shell/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://spreitzer.ch/categories/terraform/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://spreitzer.ch/categories/terraform/</guid>
       <description>
         
           

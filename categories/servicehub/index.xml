@@ -10,7 +10,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 11:01:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://spreitzer.ch/categories/servicehub/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
     <item>
       <title>Idea: Terraform ServiceHub</title>
       <link>https://spreitzer.ch/posts/idea-terraform-servicehub/</link>
-      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://spreitzer.ch/posts/idea-terraform-servicehub/</guid>
       <description>
@@ -28,7 +28,7 @@
         
         
         
-          Terraform ServiceHub could be the self-service portal, digitally transitioning enterprises are long waiting for
+          Terraform ServiceHub could be the self-service portal, digitally transitioning enterprises are long waiting for.
           
         
         </description>
