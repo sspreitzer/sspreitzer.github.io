@@ -1,0 +1,5 @@
+code,
+code[class*="language-"],
+pre[class*="language-"] {
+  font-family: Liberation Mono, Andale Mono, Consolas, Lucida Sans Typewriter;
+}

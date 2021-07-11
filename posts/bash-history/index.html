@@ -240,12 +240,12 @@ Escaping can be done via double backslashes, eg <code>\\&amp;</code>.</p>
 <h3 id="condensing-the-history">Condensing the History</h3>
 <p>My favorite history setting is to condense the history instead of using it as a log of consecutive commands.
 Save to <code>~/.bashrc</code> or system-wide in <code>/etc/bash/bashrc</code></p>
-<pre><code>HISTCONTROL='ignorespace:erasedups'
-HISTIGNORE='cd *:ls *'
-HISTSIZE='1000000'
-</code></pre><h3 id="deactivating-the-history">Deactivating the History</h3>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-bash" data-lang="bash">HISTCONTROL<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;ignorespace:erasedups&#39;</span>
+HISTIGNORE<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;cd *:ls *&#39;</span>
+HISTSIZE<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;1000000&#39;</span>
+</code></pre></div><h3 id="deactivating-the-history">Deactivating the History</h3>
 <p>Some hackers use this trick to not get commands logged.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">export HISTFILE<span style="color:#f92672">=</span>/dev/null
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-bash" data-lang="bash">export HISTFILE<span style="color:#f92672">=</span>/dev/null
 </code></pre></div><h3 id="useful-history-commands-and-key-combinations">Useful History Commands and Key Combinations</h3>
 <table>
 <thead>
