@@ -5,25 +5,25 @@
     
     
     
-    <link>/</link>
+    <link>https://spreitzer.ch/</link>
     <description>Recent content on Sascha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
     <lastBuildDate>Mon, 14 Jun 2021 11:01:46 +0200</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://spreitzer.ch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Idea: Terraform ServiceHub</title>
-      <link>/posts/idea-terraform-servicehub/</link>
+      <link>https://spreitzer.ch/posts/idea-terraform-servicehub/</link>
       <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>/posts/idea-terraform-servicehub/</guid>
+      <guid>https://spreitzer.ch/posts/idea-terraform-servicehub/</guid>
       <description>
         
-          &lt;img src=&#34;/images/code1.jpg&#34;/&gt;
+          &lt;img src=&#34;https://spreitzer.ch/images/code1.jpg&#34;/&gt;
           
         
         
@@ -36,13 +36,13 @@
     
     <item>
       <title>Useful Bash History Settings</title>
-      <link>/posts/bash-history/</link>
+      <link>https://spreitzer.ch/posts/bash-history/</link>
       <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
       
-      <guid>/posts/bash-history/</guid>
+      <guid>https://spreitzer.ch/posts/bash-history/</guid>
       <description>
         
-          &lt;img src=&#34;/images/code2.jpg&#34;/&gt;
+          &lt;img src=&#34;https://spreitzer.ch/images/code2.jpg&#34;/&gt;
           
         
         
@@ -55,13 +55,13 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://spreitzer.ch/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://spreitzer.ch/about/</guid>
       <description>
         
-          &lt;img src=&#34;/images/zurich1.jpg&#34;/&gt;
+          &lt;img src=&#34;https://spreitzer.ch/images/zurich1.jpg&#34;/&gt;
           
         
         
