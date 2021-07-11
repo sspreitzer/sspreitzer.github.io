@@ -28,8 +28,7 @@
         
         
         
-          This is an idea that is on my mind for quite some time and I struggle to find the software that implements it. And I am not implementing it by myself, for the moment. But maybe this is some challenge for you?
-The Idea To create a software that can offer a simple portal to instantiate Terraform modules and manage the state of the instance (CREATE/UPDATE/DELETE). The focus is on allowing novice users to create their own instances of a Terraform module created and maintained by experts.
+          Terraform ServiceHub could be the self-service portal, digitally transitioning enterprises are long waiting for
           
         
         </description>
@@ -48,8 +47,7 @@ The Idea To create a software that can offer a simple portal to instantiate Terr
         
         
         
-          This post aims to describe some useful bash history settings, that are all too often unknown of. Following are some environment variables described, which can be set in the users bashrc file in eg. ~/.bashrc.
-HISTCONTROL    Setting Behaviour     ignorespace Do not record if line starts with a blank/space   ignoredups Do not record line if its a duplicate of the previous line   ignoreboth Do ignorespace and ignoredups   erasedups Do remove all occurences of line before saving line    The settings can be combined by colons, eg.
+          My bash history settings to work more efficiently on the terminal
           
         
         </description>
@@ -68,10 +66,7 @@ HISTCONTROL    Setting Behaviour     ignorespace Do not record if line starts wi
         
         
         
-          Bio &amp;ldquo;Open Source is not only about software, it is a revolution of work culture, driven by purpose.&amp;quot;
-Sascha Spreitzer, living in Zurich, Switzerland. Interested in Star Trek, time travel, scuba diving, cuban cigars, Linux and Open Source. Developing in Ruby, C and occasionally Python. Designing and describing Open Source solutions by passion.
- GitHub LinkedIn Facebook Instagram  GnuPG / OpenPGP public key: 68D66FF5DDAC361F
-Education Linux  Red Hat Certified Architect Red Hat Certified Engineer Red Hat Certified in OpenStack (Admin &amp;amp; Engineer) Red Hat Certified in OpenShift Red Hat Certified in Ansible Linux Professional Institute Certification 1/2/3  PADI  Certified Rescue Diver Certified Emergency First Responder Certified Enriched Air Diver (Nitrox) Certified Advanced Open Water Diver Certified Open Water Diver  Postgraduate (admission sur dossier)  Student of Master of Business Administration (MBA FH) in IT-Management Student of Advanced Studies (CAS FH) in Digital Strategy and Performance Certificate of Advanced Studies (CAS FH) in IT-Management Certificate of Advanced Studies (CAS FH) in General Management  Vocational Training  IT Specialist in System Integration  
+          About Sascha Spreitzer in Zurich, Switzerland
           
         
         </description>
