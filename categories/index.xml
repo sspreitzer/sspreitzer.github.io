@@ -5,22 +5,22 @@
     
     
     
-    <link>https://spreitzer.ch/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Sascha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 14:49:51 +0200</lastBuildDate>
     
-	<atom:link href="https://spreitzer.ch/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>bash</title>
-      <link>https://spreitzer.ch/categories/bash/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <title>leadership</title>
+      <link>/categories/leadership/</link>
+      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/bash/</guid>
+      <guid>/categories/leadership/</guid>
       <description>
         
           
@@ -36,11 +36,31 @@
     </item>
     
     <item>
-      <title>history</title>
-      <link>https://spreitzer.ch/categories/history/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <title>management</title>
+      <link>/categories/management/</link>
+      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/history/</guid>
+      <guid>/categories/management/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>new work</title>
+      <link>/categories/new-work/</link>
+      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
+      
+      <guid>/categories/new-work/</guid>
       <description>
         
           
@@ -57,10 +77,10 @@
     
     <item>
       <title>ideas</title>
-      <link>https://spreitzer.ch/categories/ideas/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/categories/ideas/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/ideas/</guid>
+      <guid>/categories/ideas/</guid>
       <description>
         
           
@@ -77,10 +97,10 @@
     
     <item>
       <title>self-service</title>
-      <link>https://spreitzer.ch/categories/self-service/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/categories/self-service/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/self-service/</guid>
+      <guid>/categories/self-service/</guid>
       <description>
         
           
@@ -97,10 +117,10 @@
     
     <item>
       <title>service</title>
-      <link>https://spreitzer.ch/categories/service/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/categories/service/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/service/</guid>
+      <guid>/categories/service/</guid>
       <description>
         
           
@@ -117,30 +137,10 @@
     
     <item>
       <title>ServiceHub</title>
-      <link>https://spreitzer.ch/categories/servicehub/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/categories/servicehub/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/servicehub/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>shell</title>
-      <link>https://spreitzer.ch/categories/shell/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://spreitzer.ch/categories/shell/</guid>
+      <guid>/categories/servicehub/</guid>
       <description>
         
           
@@ -157,10 +157,70 @@
     
     <item>
       <title>Terraform</title>
-      <link>https://spreitzer.ch/categories/terraform/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/categories/terraform/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/categories/terraform/</guid>
+      <guid>/categories/terraform/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>bash</title>
+      <link>/categories/bash/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      
+      <guid>/categories/bash/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>history</title>
+      <link>/categories/history/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      
+      <guid>/categories/history/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>/categories/shell/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
+      
+      <guid>/categories/shell/</guid>
       <description>
         
           

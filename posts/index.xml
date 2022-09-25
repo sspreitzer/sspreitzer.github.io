@@ -5,30 +5,52 @@
     
     
     
-    <link>https://spreitzer.ch/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Sascha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 14:49:51 +0200</lastBuildDate>
     
-	<atom:link href="https://spreitzer.ch/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Idea: Terraform ServiceHub</title>
-      <link>https://spreitzer.ch/posts/idea-terraform-servicehub/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Open Access Publication of Master Thesis in IT Management &amp; New Work</title>
+      <link>/posts/publication-it-management-new-work/</link>
+      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/posts/idea-terraform-servicehub/</guid>
+      <guid>/posts/publication-it-management-new-work/</guid>
       <description>
         
-          &lt;img src=&#34;https://spreitzer.ch/images/code1.jpg&#34;/&gt;
+          &lt;img src=&#34;/images/kalaidos.png&#34;/&gt;
           
         
         
         
-          Terraform ServiceHub could be the self-service portal, digitally transitioning enterprises are long waiting for.
+          In 2021 I have written a thesis about the combination of New Work and IT Management in german.
+The results describe that companies shall implement normative IT management to connect the work of staff with a purpose in society. Coupled with new work principles such as staff autonomy, staff capabilites and staff inclusion, which excel intrinsic motivation, performance and create an emotional bond with the company.
+-&amp;gt; Link to publication (DE)
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Idea: Terraform ServiceHub</title>
+      <link>/posts/idea-terraform-servicehub/</link>
+      <pubDate>Mon, 14 Jun 2021 11:01:46 +0200</pubDate>
+      
+      <guid>/posts/idea-terraform-servicehub/</guid>
+      <description>
+        
+          &lt;img src=&#34;/images/code1.jpg&#34;/&gt;
+          
+        
+        
+        
+          This is an idea that is on my mind for quite some time and I struggle to find the software that implements it. And I am not implementing it by myself, for the moment. But maybe this is some challenge for you?
+The Idea To create a software that can offer a simple portal to instantiate Terraform modules and manage the state of the instance (CREATE/UPDATE/DELETE). The focus is on allowing novice users to create their own instances of a Terraform module created and maintained by experts.
           
         
         </description>
@@ -36,18 +58,19 @@
     
     <item>
       <title>Useful Bash History Settings</title>
-      <link>https://spreitzer.ch/posts/bash-history/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/posts/bash-history/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/posts/bash-history/</guid>
+      <guid>/posts/bash-history/</guid>
       <description>
         
-          &lt;img src=&#34;https://spreitzer.ch/images/code2.jpg&#34;/&gt;
+          &lt;img src=&#34;/images/code2.jpg&#34;/&gt;
           
         
         
         
-          My bash history settings to work more efficiently on the terminal.
+          This post aims to describe some useful bash history settings, that are all too often unknown of. Following are some environment variables described, which can be set in the users bashrc file in eg. ~/.bashrc.
+HISTCONTROL Setting Behaviour ignorespace Do not record if line starts with a blank/space ignoredups Do not record line if its a duplicate of the previous line ignoreboth Do ignorespace and ignoredups erasedups Do remove all occurences of line before saving line The settings can be combined by colons, eg.
           
         
         </description>

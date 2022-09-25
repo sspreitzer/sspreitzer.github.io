@@ -5,13 +5,13 @@
     
     
     
-    <link>https://spreitzer.ch/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Sascha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
     
-	<atom:link href="https://spreitzer.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>management on Sascha&#39;s Blog</title>
+    
+    
+    
+    <link>/categories/management/</link>
+    <description>Recent content in management on Sascha&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;nbsp;</copyright>
+    <lastBuildDate>Sun, 25 Sep 2022 14:49:51 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Access Publication of Master Thesis in IT Management &amp; New Work</title>
+      <link>/posts/publication-it-management-new-work/</link>
+      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
+      
+      <guid>/posts/publication-it-management-new-work/</guid>
+      <description>
+        
+          &lt;img src=&#34;/images/kalaidos.png&#34;/&gt;
+          
+        
+        
+        
+          In 2021 I have written a thesis about the combination of New Work and IT Management in german.
+The results describe that companies shall implement normative IT management to connect the work of staff with a purpose in society. Coupled with new work principles such as staff autonomy, staff capabilites and staff inclusion, which excel intrinsic motivation, performance and create an emotional bond with the company.
+-&amp;gt; Link to publication (DE)
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>IT Management &amp; New Work (DE)</title>
+      <link>/publications/it-management-new-work-de/</link>
+      <pubDate>Sun, 25 Sep 2022 12:17:18 +0200</pubDate>
+      
+      <guid>/publications/it-management-new-work-de/</guid>
+      <description>
+        
+          &lt;img src=&#34;/images/kalaidos.png&#34;/&gt;
+          
+        
+        
+        
+          Masterarbeit an der Kalaidos Fachhochschule Schweiz. 52 Seiten, 185 mit Anhängen.
+Dieses Werk ist im Open Access veröffentlicht und unter einer freien Creative Commons Lizenz verfügbar. Im Detail &amp;ldquo;Namensnennung 4.0 International (CC BY 4.0)&amp;rdquo;. Siehe unter https://creativecommons.org/licenses/by/4.0/deed.de
+Zitierbeispiel nach APA 7:
+Spreitzer, S. (2022, 25. September). IT-Management als Enabler von New Work für die Unternehmensevolution. https://spreitzer.ch/publications/it-management-new-work-de/ Abstract Einleitung Die digitale Transformation und der Mangel an IT-Fachkräften führen zu einem Kampf um die besten Talente am Arbeitsmarkt.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

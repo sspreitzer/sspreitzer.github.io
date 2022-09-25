@@ -5,30 +5,31 @@
     
     
     
-    <link>https://spreitzer.ch/categories/bash/</link>
+    <link>/categories/bash/</link>
     <description>Recent content in bash on Sascha&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 09:41:24 +0200</lastBuildDate>
     
-	<atom:link href="https://spreitzer.ch/categories/bash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/bash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Useful Bash History Settings</title>
-      <link>https://spreitzer.ch/posts/bash-history/</link>
-      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <link>/posts/bash-history/</link>
+      <pubDate>Mon, 14 Jun 2021 09:41:24 +0200</pubDate>
       
-      <guid>https://spreitzer.ch/posts/bash-history/</guid>
+      <guid>/posts/bash-history/</guid>
       <description>
         
-          &lt;img src=&#34;https://spreitzer.ch/images/code2.jpg&#34;/&gt;
+          &lt;img src=&#34;/images/code2.jpg&#34;/&gt;
           
         
         
         
-          My bash history settings to work more efficiently on the terminal.
+          This post aims to describe some useful bash history settings, that are all too often unknown of. Following are some environment variables described, which can be set in the users bashrc file in eg. ~/.bashrc.
+HISTCONTROL Setting Behaviour ignorespace Do not record if line starts with a blank/space ignoredups Do not record line if its a duplicate of the previous line ignoreboth Do ignorespace and ignoredups erasedups Do remove all occurences of line before saving line The settings can be combined by colons, eg.
           
         
         </description>
