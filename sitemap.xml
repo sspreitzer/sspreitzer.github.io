@@ -4,63 +4,105 @@
   <url>
     <loc>/categories/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/leadership/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/management/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/new-work/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/publication-it-management-new-work/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
     <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/it-management-new-work-de/</loc>
     <lastmod>2022-09-25T12:17:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/publications/</loc>
     <lastmod>2022-09-25T12:17:18+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/idea-terraform-servicehub/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/ideas/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/self-service/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/service/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/servicehub/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/terraform/</loc>
     <lastmod>2021-06-14T11:01:46+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/bash/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/history/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/categories/shell/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/posts/bash-history/</loc>
     <lastmod>2021-06-14T09:41:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
