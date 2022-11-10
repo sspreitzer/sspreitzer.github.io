@@ -3,17 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/categories/distance/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/categories/leadership/</loc>
-    <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/categories/management/</loc>
-    <lastmod>2022-09-25T14:49:51+02:00</lastmod>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/posts/publication-problem-areas-of-distance-leadership/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/categories/personalf%C3%BChrung/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/categories/remote/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-10T17:47:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publications/problemfelder-distance-leadership-de/</loc>
+    <lastmod>2022-11-10T17:14:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publications/</loc>
+    <lastmod>2022-11-10T17:14:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,22 +67,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-25T14:49:51+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-09-25T14:49:51+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/publications/it-management-new-work-de/</loc>
-    <lastmod>2022-09-25T12:17:18+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/publications/</loc>
     <lastmod>2022-09-25T12:17:18+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

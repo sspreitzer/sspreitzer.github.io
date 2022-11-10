@@ -10,15 +10,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;nbsp;</copyright>
-    <lastBuildDate>Sun, 25 Sep 2022 14:49:51 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2022 17:47:00 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>distance</title>
+      <link>/categories/distance/</link>
+      <pubDate>Thu, 10 Nov 2022 17:47:00 +0200</pubDate>
+      
+      <guid>/categories/distance/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>leadership</title>
       <link>/categories/leadership/</link>
-      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
+      <pubDate>Thu, 10 Nov 2022 17:47:00 +0200</pubDate>
       
       <guid>/categories/leadership/</guid>
       <description>
@@ -38,9 +58,49 @@
     <item>
       <title>management</title>
       <link>/categories/management/</link>
-      <pubDate>Sun, 25 Sep 2022 14:49:51 +0200</pubDate>
+      <pubDate>Thu, 10 Nov 2022 17:47:00 +0200</pubDate>
       
       <guid>/categories/management/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Personalführung</title>
+      <link>/categories/personalf%C3%BChrung/</link>
+      <pubDate>Thu, 10 Nov 2022 17:47:00 +0200</pubDate>
+      
+      <guid>/categories/personalf%C3%BChrung/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Remote</title>
+      <link>/categories/remote/</link>
+      <pubDate>Thu, 10 Nov 2022 17:47:00 +0200</pubDate>
+      
+      <guid>/categories/remote/</guid>
       <description>
         
           
